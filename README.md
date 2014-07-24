@@ -1,6 +1,7 @@
 4D Visi-Genie (arduino) library adapted for Spark
 by Paul Kourany, July 2014
 
+
 ```
 /////////////////////// GenieArduino 20/07/2014 ///////////////////////
 //
@@ -21,3 +22,10 @@ by Paul Kourany, July 2014
 //
 //      Copyright (c) 2012-2013 4D Systems Pty Ltd, Sydney, Australia
 ```
+
+Notes:
+------
+
+The single adapter demo uses Spark's Serial1 port
+
+The dual-adapted demo will not compile at this time since the Serial2 implementation is in Beta
